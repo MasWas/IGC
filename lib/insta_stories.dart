@@ -9,7 +9,7 @@ final topText = Row(
     ),
     new Row(
       children: <Widget>[
-        new Icon(Icons.search),
+        new Icon(Icons.play_arrow),
         Text(
           "Play all",
           style: new TextStyle(fontWeight: FontWeight.bold),

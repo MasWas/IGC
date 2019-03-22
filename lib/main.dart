@@ -7,10 +7,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Instagram',
+      title: 'IGClone',
       debugShowCheckedModeBanner: false,
       theme: new ThemeData(
-          primaryColor: Colors.black,
+          primaryColor: Colors.white,
           primaryIconTheme: IconThemeData(color: Colors.black),
           primaryTextTheme: TextTheme(
               title: TextStyle(color: Colors.black, fontFamily: 'GOTHIC')),
