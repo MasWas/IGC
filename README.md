@@ -13,11 +13,14 @@ GOAL :
 - Bisa memahami konsep dasar material ui di flutter 
 - Tau cara berkerja dengan team work menggunakan git
 
+UPDATE : [22/03/2109]
+- Penambahan module pencarian
+- Pindah screen navigation
+
 LICENSE :
 - Bagi yg berminat, free untuk clone project ini
 - Bagi yang berminat dan sama-sama membangun tutorial ini, untuk menjadi contributor bisa pm saya di tele ya, at @maswas 
 
-ETIKA :
 - Dipersilahkan bagi yang mau menjadikan project ini sebagai staterkit , tapi alangkah indahnya jika contributor nya ditraktir coffee :)
 
 
